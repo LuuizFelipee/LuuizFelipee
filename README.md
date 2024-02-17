@@ -1,9 +1,8 @@
 ### Olá! Meu nome é Luiz Felipe :)
 
-- 🔭 Sou estudante da Etec de Hortolândia
-- 🌱 Estou cursando Desenvolvimento de Sistema
+- 🌱 sou técnico em Desenvolvimento de Sistema 
 - 😄 Pronome: Ele/Dele
-- ⚡ Futuro Universitário
+- ⚡ Curso Análise em desenvolvimento de sistemas
 
  <div>
   <a href="https://github.com/LuuizFelipee">
